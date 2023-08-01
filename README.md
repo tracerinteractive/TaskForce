@@ -14,7 +14,7 @@ If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* butt
 
 ![GitHub Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/eab20d9f-909b-49bd-8f01-4a40e60b5ee7)
 
-To use the Task Force Editor you must have an Epic Games account with a linked GitHub account. If you do not have an Epic Games account or have never linked your accounts before then proceed with the following instructions. If you've already linked your accounts then skip ahead to the [download + install](#download--install) section.
+To use the Task Force Editor you must have an Epic Games account with a linked GitHub account. If you do not have an Epic Games account or have never linked your accounts before then proceed with the following instructions. If you've already joined the Epic Games organization on GitHub then skip ahead to the [download + install](#download--install) section.
 
 ---
 
@@ -77,6 +77,7 @@ Right-click on `Setup.bat` and select "Run as administrator" to install the engi
 ![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/77bbe327-ff39-46bd-b039-c3b810fc9e4e)
 
 Once the setup is complete double-click on `Launcher.bat` to boot the editor.
+> You can drag and drop `Launcher.bat` (using the *right mouse button*) to your desktop to create a shortcut.
 
 ![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/5176a364-7afa-4a57-80f4-7687f430f91b)
 
