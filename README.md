@@ -1,5 +1,7 @@
 # Task Force Workshop
 
+![Unreal Engine 5](https://github.com/tracerinteractive/TaskForce/assets/43829991/e6425103-4c18-41f1-ab3c-2002825fbe44)
+
 To use the Task Force Workshop you must have an Epic Games account with a linked GitHub account. If you do not have both of these accounts or have never linked your accounts before then proceed with the following instructions. If you've already linked your accounts then skip ahead to the [download + install](#download--install) section.
 
 If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* buttons.
@@ -8,7 +10,7 @@ If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* butt
 ![GitHub Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/eab20d9f-909b-49bd-8f01-4a40e60b5ee7)
 
 You must also login to an Epic Games account. Go to [epicgames.com](https://epicgames.com) and click *Sign In*, even if you've never created an Epic Games account before. Then click *Sign Up* at the very bottom to create an account or select a way to login to your existing account.
-> :warning: You must have an Epic Games to use the workshop!
+> :warning: You must have an Epic Games account to use the workshop!
 
 ![Epic Games Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/f0edb2a0-ed69-408b-bdc0-8aa499363261)
 
@@ -43,4 +45,28 @@ And you'll see this alert on your GitHub homepage.
 ## Download + Install
 
 [github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip](https://github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip)
-> :warning: You must have a GitHub account linked to your Epic Games account!
+> :warning: You must have a GitHub account linked to an Epic Games account!
+
+Once the zip is downloaded extract the files to the root of your drive.
+
+![Extract All](https://github.com/tracerinteractive/TaskForce/assets/43829991/390f5ca4-53bd-4e21-bc9a-b723fc0d8cbf)
+
+This shows the engine being installed on the `C:\` drive, but you can use any drive you'd like.
+> You do not need to specify a directory name as the zip already contains the folder.
+
+![Extract Dialog](https://github.com/tracerinteractive/TaskForce/assets/43829991/5ee77835-ff51-4db0-8d18-8003cd80464d)
+
+After the zip is extracted you should have a folder named `UnrealEngine-taskforce` on your drive.
+
+![Install Folder](https://github.com/tracerinteractive/TaskForce/assets/43829991/ef8e8112-9265-466d-a09f-5da8e5795f4c)
+
+Right-click on `Setup.bat` and select "Run as administrator" to install the engine.
+> You can also delete the `.gitattributes` and `.gitignore` files as they are not needed.
+
+![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/77bbe327-ff39-46bd-b039-c3b810fc9e4e)
+
+Once the setup is complete double-click on `Launcher.bat` to boot the Unreal Engine.
+
+![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/5176a364-7afa-4a57-80f4-7687f430f91b)
+
+**You have now successfully installed the Task Force Workshop!**
