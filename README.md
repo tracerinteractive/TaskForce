@@ -2,15 +2,24 @@
 
 ![Unreal Engine 5](https://github.com/tracerinteractive/TaskForce/assets/43829991/e6425103-4c18-41f1-ab3c-2002825fbe44)
 
-To use the Task Force Workshop you must have an Epic Games account with a linked GitHub account. If you do not have both of these accounts or have never linked your accounts before then proceed with the following instructions. If you've already linked your accounts then skip ahead to the [download + install](#download--install) section.
+* [Download + Install](#download--install)
+	* [Update Engine](#update-engine)
+* [Create Project](#create-project)
+	* [Update Project](#update-project)
+* [View Documentation](../../wiki)
+* [View Workshop](https://steamcommunity.com/app/611300/workshop/)
 
 If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* buttons.
-> :warning: You must have a GitHub account to use the workshop!
+> :warning: You must have a GitHub account to download the engine!
 
 ![GitHub Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/eab20d9f-909b-49bd-8f01-4a40e60b5ee7)
 
-You must also login to an Epic Games account. Go to [epicgames.com](https://epicgames.com) and click *Sign In*, even if you've never created an account before. Then click *Sign Up* at the very bottom to create an account or select a way to login to your existing account.
-> :warning: You must have an Epic Games account to use the workshop!
+To use the Task Force Workshop you must have an Epic Games account with a linked GitHub account. If you do not have an Epic Games account or have never linked your accounts before then proceed with the following instructions. If you've already linked your accounts then skip ahead to the [download + install](#download--install) section.
+
+---
+
+You must login to an Epic Games account. Go to [epicgames.com](https://epicgames.com) and click *Sign In*, even if you've never created an account before. Then click *Sign Up* at the very bottom to create an account or select a way to login to your existing account.
+> :warning: You must have an Epic Games account to download the engine!
 
 ![Epic Games Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/f0edb2a0-ed69-408b-bdc0-8aa499363261)
 
@@ -42,7 +51,9 @@ And you'll see this alert on your GitHub homepage.
 
 **You have now successfully obtained access to the Task Force Workshop!**
 
-## Download + Install
+---
+
+### Download + Install
 
 [github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip](https://github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip)
 > :warning: You must have a GitHub account linked to an Epic Games account!
@@ -70,3 +81,36 @@ Once the setup is complete double-click on `Launcher.bat` to boot the Unreal Eng
 ![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/5176a364-7afa-4a57-80f4-7687f430f91b)
 
 **You have now successfully installed the Task Force Workshop!**
+
+### Create Project
+Go to the *WORKSHOP* section and create a new project using the *Task Force* template.
+> :warning: DO NOT CREATE PROJECT FILES ANYWHERE INSIDE YOUR ENGINE INSTALL DIRECTORY! 
+
+![Create Project](https://github.com/tracerinteractive/TaskForce/assets/43829991/0c180102-2720-4adb-92c5-ca1b8b08dd6a)
+
+- *Project Location* is the directory where you store all your projects
+- *Project Folder* is the subdirectory for this new project
+> This example creates a new project at the following path:  
+> `C:\Users\Administrator\Desktop\MyProject\TaskForce.uproject`  
+
+You can also use the launcher to open existing projects from the "RECENT PROJECTS" section.
+
+![Recent Projects](https://github.com/tracerinteractive/TaskForce/assets/43829991/1f465369-4e75-4c4f-87bb-0719bb4b8c60)
+
+There's even a link to the UE5 marketplace in the bottom-right to download asset packs.  
+> Or just click here: [unrealengine.com/marketplace/store](https://www.unrealengine.com/marketplace/store)  
+
+![Marketplace](https://github.com/tracerinteractive/TaskForce/assets/43829991/cd5fd3e0-161d-4a19-a1df-f7b29cc78770)
+
+Once you've created a new project, you can jump into any of the following tasks:
+
+* [Map Creation](Documentation/map_create.md) - Make a new folder structure using your desired map name
+* [Map Uploading](Documentation/map_upload.md) - Submit a valid map and folder structure to the workshop
+* [Map Development](Documentation/map_development.md) - Learn how to build maps with Unreal Engine 5
+
+> The project template comes with an example map so you can start anywhere...
+> - Upload the example map to test subscribing, downloading, and playing
+> 	- Host a public or private lobby to test the map with other players
+> - Begin customizing the example map and then upload, ect
+> 	- Or even a demo map from a marketplace asset pack 
+> - Build a new map from scratch and then upload, ect
