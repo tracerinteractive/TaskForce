@@ -129,3 +129,23 @@ If an editor update is required just delete the engine install directory and [re
 - After that your existing projects will be accessible again under *RECENT PROJECTS*
 
 **You have successfully updated your editor!**
+
+### Update Project
+
+If the engine was updated then it is recommended to update each of your projects as well.
+> This will ensure your projects have the latest content and settings to avoid crashes.
+
+You can update each of your existing projects using these steps:
+- Setup a new project as outlined in the [create project](#create-project) instructions
+- Merge the following directories from your old project into your new project:
+	- `/Content/Maps/Workshop/**`
+ 	- `/Content/Environments/Workshop/**`
+  	- `/Content/UI/Workshop/**`
+  	- `/Icons/**`
+- Delete your old project since it's no longer needed
+
+> You can merge directories by dragging and dropping them between their parent folders.
+
+![Move Content](https://github.com/tracerinteractive/TaskForce/assets/43829991/7a1c080d-d29e-434e-9226-60b1e35a6386)
+
+**You have successfully updated your project files!**
