@@ -3,14 +3,14 @@
 ![Unreal Engine 5](https://github.com/tracerinteractive/TaskForce/assets/43829991/e6425103-4c18-41f1-ab3c-2002825fbe44)
 
 * [Download + Install](#download--install)
-	* [Update Engine](#update-engine)
+	* [Update Editor](#update-editor)
 * [Create Project](#create-project)
 	* [Update Project](#update-project)
 * [View Documentation](../../wiki)
 * [View Workshop](https://steamcommunity.com/app/611300/workshop/)
 
 If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* buttons.
-> :warning: You must have a GitHub account to download the engine!
+> :warning: You must have a GitHub account to download the editor!
 
 ![GitHub Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/eab20d9f-909b-49bd-8f01-4a40e60b5ee7)
 
@@ -19,7 +19,7 @@ To use the Task Force Editor you must have an Epic Games account with a linked G
 ---
 
 You must login to an Epic Games account. Go to [epicgames.com](https://epicgames.com) and click *Sign In*, even if you've never created an account before. Then click *Sign Up* at the very bottom to create an account or select a way to login to your existing account.
-> :warning: You must have an Epic Games account to download the engine!
+> :warning: You must have an Epic Games account to download the editor!
 
 ![Epic Games Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/f0edb2a0-ed69-408b-bdc0-8aa499363261)
 
@@ -115,3 +115,17 @@ Once you've created a new project, you can jump into any of the following tasks:
 > - Begin customizing the example map and then upload, ect
 > 	- Or even a demo map from a marketplace asset pack 
 > - Build a new map from scratch and then upload, ect
+
+---
+
+### Update Editor
+
+If an editor update is required just delete the engine install directory and [reinstall](#download--install) the editor.
+> :warning: DO NOT LEAVE THE EDITOR OPEN WHEN TRYING TO DELETE THE INSTALL!
+
+![Delete Folder](https://github.com/tracerinteractive/TaskForce/assets/43829991/8c1e3537-fce8-46a7-a007-e4db495c3e12)
+
+- This means you perform the [download + install](#download--install) instructions as you did before
+- After that your existing projects will be accessible again under *RECENT PROJECTS*
+
+**You have successfully updated your editor!**
