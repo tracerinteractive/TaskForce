@@ -5,8 +5,7 @@ if exist UnrealEngine\Setup.bat (
 	move UnrealEngine UnrealEngine-taskforce
 )
 
+pause
 if exist UnrealEngine-taskforce\Setup.bat (
 	del "%~f0" & exit
-) else (
-	pause
 )
