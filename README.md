@@ -1,7 +1,6 @@
 # Task Force Workshop
 
-To use the Task Force Work
-shop you must have an Epic Games account with a linked GitHub account. If you do not have both of these accounts or have never linked your accounts before then proceed with the following instructions. If you've already linked your accounts then skip ahead to the [download + install](#download--install) section.
+To use the Task Force Workshop you must have an Epic Games account with a linked GitHub account. If you do not have both of these accounts or have never linked your accounts before then proceed with the following instructions. If you've already linked your accounts then skip ahead to the [download + install](#download--install) section.
 
 If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* buttons.
 > :warning: You must have a GitHub account to use the workshop!
@@ -16,3 +15,32 @@ You must also login to an Epic Games account. Go to [epicgames.com](https://epic
 Once you are logged in at [epicgames.com](https://epicgames.com) go to your *ACCOUNT* section.
 
 ![Epic Games Account](https://github.com/tracerinteractive/TaskForce/assets/43829991/e6ae7a9e-9b3a-47c9-a85f-9c6957fe0f8f)
+
+Select the *APPS AND ACCOUNTS* tab and then *CONNECT* under the GitHub icon.
+
+![GitHub Connect](https://github.com/tracerinteractive/TaskForce/assets/43829991/823b3af5-6a8f-4b77-91b9-2df984e1d96c)
+
+Click the *LINK ACCOUNT* button and accept the Unreal Engine EULA. Scroll to the bottom and click *AGREE*. Then click the *LINK ACCOUNT* button again and GitHub will open in a popup. If you were not logged in then it will ask you for your GitHub username and password. Now click the *Authorize EpicGames* button in the popup to complete the account linking.
+
+![Link Account](https://github.com/tracerinteractive/TaskForce/assets/43829991/3168aded-58f0-455a-9d1f-0f7d58e6bf6b)
+
+You must now accept the organization invitation on GitHub! There will be an email in your inbox.
+> Or just click here: [github.com/orgs/EpicGames/invitation](https://github.com/orgs/EpicGames/invitation)
+
+![Invite Email](https://github.com/tracerinteractive/TaskForce/assets/43829991/bcb69b2b-c90b-4f71-947d-b4278ecff74c)
+![Join Button](https://github.com/tracerinteractive/TaskForce/assets/43829991/232da7f9-6f4a-48e1-8008-5e07c4e74739)
+
+You should now see the following message after joining the organization.
+
+![Join Message](https://github.com/tracerinteractive/TaskForce/assets/43829991/aa7a2ea2-6388-4e88-a3b9-e82784a2254e)
+
+And you'll see this alert on your GitHub homepage.
+
+![Added Message](https://github.com/tracerinteractive/TaskForce/assets/43829991/4d1f38f9-7f88-48f1-8d8f-da996c0158e9)
+
+**You have now successfully obtained access to the Task Force Workshop!**
+
+## Download + Install
+
+[github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip](https://github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip)
+> :warning: You must have a GitHub account linked to your Epic Games account!
