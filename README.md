@@ -1,4 +1,4 @@
-# Task Force Workshop
+# Task Force Editor
 
 ![Unreal Engine 5](https://github.com/tracerinteractive/TaskForce/assets/43829991/e6425103-4c18-41f1-ab3c-2002825fbe44)
 
@@ -14,7 +14,7 @@ If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* butt
 
 ![GitHub Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/eab20d9f-909b-49bd-8f01-4a40e60b5ee7)
 
-To use the Task Force Workshop you must have an Epic Games account with a linked GitHub account. If you do not have an Epic Games account or have never linked your accounts before then proceed with the following instructions. If you've already linked your accounts then skip ahead to the [download + install](#download--install) section.
+To use the Task Force Editor you must have an Epic Games account with a linked GitHub account. If you do not have an Epic Games account or have never linked your accounts before then proceed with the following instructions. If you've already linked your accounts then skip ahead to the [download + install](#download--install) section.
 
 ---
 
@@ -49,7 +49,7 @@ And you'll see this alert on your GitHub homepage.
 
 ![Added Message](https://github.com/tracerinteractive/TaskForce/assets/43829991/4d1f38f9-7f88-48f1-8d8f-da996c0158e9)
 
-**You have now successfully obtained access to the Task Force Workshop!**
+**You have now successfully obtained access to the Task Force Editor!**
 
 ---
 
@@ -76,11 +76,11 @@ Right-click on `Setup.bat` and select "Run as administrator" to install the engi
 
 ![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/77bbe327-ff39-46bd-b039-c3b810fc9e4e)
 
-Once the setup is complete double-click on `Launcher.bat` to boot the Unreal Engine.
+Once the setup is complete double-click on `Launcher.bat` to boot the editor.
 
 ![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/5176a364-7afa-4a57-80f4-7687f430f91b)
 
-**You have now successfully installed the Task Force Workshop!**
+**You have now successfully installed the Task Force Editor!**
 
 ### Create Project
 Go to the *WORKSHOP* section and create a new project using the *Task Force* template.
