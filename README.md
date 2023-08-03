@@ -5,9 +5,11 @@
 * [Download + Install](#download--install)
 	* [Update Editor](#update-editor)
 * [Create Project](#create-project)
+	* [Add Game Content](#add-game-content)
 	* [Update Project](#update-project)
 * [View Documentation](../../wiki)
 * [View Workshop](https://steamcommunity.com/app/611300/workshop/)
+	* [Go To Marketplace](https://www.unrealengine.com/marketplace/store)
 
 If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* buttons.
 > :warning: You must have a GitHub account to download the editor!
@@ -94,14 +96,7 @@ Go to the *WORKSHOP* section and create a new project using the *Task Force* tem
 > This example creates a new project at the following path:  
 > `C:\Users\Administrator\Desktop\MyProject\TaskForce.uproject`  
 
-You can also use the launcher to open existing projects from the "RECENT PROJECTS" section.
-
-![Recent Projects](https://github.com/tracerinteractive/TaskForce/assets/43829991/1f465369-4e75-4c4f-87bb-0719bb4b8c60)
-
-There's even a link to the UE5 marketplace in the bottom-right to download asset packs.  
-> Or just click here: [unrealengine.com/marketplace/store](https://www.unrealengine.com/marketplace/store)  
-
-![Marketplace](https://github.com/tracerinteractive/TaskForce/assets/43829991/cd5fd3e0-161d-4a19-a1df-f7b29cc78770)
+![Compile Shaders](https://github.com/tracerinteractive/TaskForce/assets/43829991/0e3d0425-a832-4ee0-8948-11198021bdca)
 
 Once you've created a new project, you can jump into any of the following tasks:
 
@@ -115,6 +110,20 @@ Once you've created a new project, you can jump into any of the following tasks:
 > - Begin customizing the example map and then upload, ect
 > 	- Or even a demo map from a marketplace asset pack 
 > - Build a new map from scratch and then upload, ect
+
+You can use the launcher to open existing projects from the "RECENT PROJECTS" section.
+
+![Recent Projects](https://github.com/tracerinteractive/TaskForce/assets/43829991/3232053c-aeab-4b4e-96d2-0502dc870c4e)
+
+### Add Game Content
+
+The launcher also extracts the latest game content from your Task Force install.
+> :warning: DO NOT CLICK THIS BUTTON WHILE YOUR PROJECT IS OPEN! 
+
+![Extract Content](https://github.com/tracerinteractive/TaskForce/assets/43829991/eb1b7d98-fe3e-46d5-baa3-efdb9cdf70fb)
+
+This button adds pre-cooked content from your game install into your project. That means you can use existing assets from Task Force that are already part of the in-game download. It will not require you to cook, pack, or upload this content to the Steam Workshop.
+> :rocket: Using in-game assets can significantly reduce the size of your map download.
 
 ---
 
