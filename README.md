@@ -57,10 +57,11 @@ And you'll see this alert on your GitHub homepage.
 
 ### Download + Install
 
-*If you want AUTOMATIC UPDATES then you should [clone repository](../../wiki#clone-repository) instead...*
+*If you want AUTOMATIC UPDATES then [clone repository](../../wiki#clone-repository) instead of downloading zip...*
 
 [github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip](https://github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip)
-> :warning: You must have a GitHub account linked to an Epic Games account!
+> ![Not Found](https://github.com/tracerinteractive/TaskForce/assets/43829991/4b905d20-5ab9-4330-9452-4e74c10314a5)  
+> :warning: You must have a GitHub account linked to an Epic Games account!  
 
 Once the zip is downloaded extract the files to the root of your drive.
 
