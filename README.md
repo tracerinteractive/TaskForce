@@ -100,16 +100,9 @@ Go to the *WORKSHOP* section and create a new project using the *Task Force* tem
 
 Once you've created a new project, you can jump into any of the following tasks:
 
-* [Map Creation](Documentation/map_create.md) - Make a new folder structure using your desired map name
-* [Map Uploading](Documentation/map_upload.md) - Submit a valid map and folder structure to the workshop
-* [Map Development](Documentation/map_development.md) - Learn how to build maps with Unreal Engine 5
-
-> The project template comes with an example map so you can start anywhere...
-> - Upload the example map to test subscribing, downloading, and playing
-> 	- Host a public or private lobby to test the map with other players
-> - Begin customizing the example map and then upload, ect
-> 	- Or even a demo map from a marketplace asset pack 
-> - Build a new map from scratch and then upload, ect
+* [Map Creation](../../wiki/Create-Map) - Make a new folder structure using your desired map name
+* [Map Uploading](../../wiki/Upload-Map) - Submit a valid map and folder structure to the workshop
+* [Map Development](../../wiki/Develop-Map) - Learn how to build maps with Unreal Engine 5
 
 You can use the launcher to open existing projects from the "RECENT PROJECTS" section.
 
