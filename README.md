@@ -20,6 +20,8 @@ To use the Task Force Editor you must have an Epic Games account with a linked G
 
 ---
 
+### Link Accounts
+
 You must login to an Epic Games account. Go to [epicgames.com](https://epicgames.com) and click *Sign In*, even if you've never created an account before. Then click *Sign Up* at the very bottom to create an account or select a way to login to your existing account.
 > :warning: You must have an Epic Games account to download the editor!
 
@@ -61,7 +63,7 @@ And you'll see this alert on your GitHub homepage.
 
 [github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip](https://github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip)
 > ![Not Found](https://github.com/tracerinteractive/TaskForce/assets/43829991/4b905d20-5ab9-4330-9452-4e74c10314a5)  
-> :warning: You must have a GitHub account linked to an Epic Games account!  
+> :warning: You must have a GitHub account [linked](#link-accounts) to an Epic Games account!  
 
 Once the zip is downloaded extract the files to the root of your drive.
 
