@@ -57,6 +57,8 @@ And you'll see this alert on your GitHub homepage.
 
 ### Download + Install
 
+*If you want AUTOMATIC UPDATES then you should [clone repository](../../wiki#clone-repository) instead...*
+
 [github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip](https://github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip)
 > :warning: You must have a GitHub account linked to an Epic Games account!
 
@@ -102,7 +104,7 @@ Once you've created a new project, you can jump into any of the following tasks:
 
 * [Map Creation](../../wiki/Create-Map) - Make a new folder structure using your desired map name
 * [Map Uploading](../../wiki/Upload-Map) - Submit a valid map and folder structure to the workshop
-* [Map Development](../../wiki/Develop-Map) - Learn how to build maps with Unreal Engine 5
+* [Map Development](../../wiki/Develop-Maps) - Learn how to build maps with Unreal Engine 5
 
 You can use the launcher to open existing projects from the "RECENT PROJECTS" section.
 
