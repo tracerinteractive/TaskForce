@@ -84,7 +84,7 @@ Right-click on `Setup.bat` and select "Run as administrator" to install the engi
 ![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/77bbe327-ff39-46bd-b039-c3b810fc9e4e)
 
 Once the setup is complete double-click on `Launcher.bat` to boot the editor.
-> You can drag and drop `Launcher.bat` (using the *right mouse button*) to your desktop to create a shortcut.
+> You can drag and drop `Launcher.bat` (using the *right mouse button*) to create a shortcut.
 
 ![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/5176a364-7afa-4a57-80f4-7687f430f91b)
 
@@ -136,6 +136,8 @@ The thumbnail for each asset will render after it has been loaded, but you canno
 ---
 
 ### Update Editor
+
+*If you want AUTOMATIC UPDATES then [clone repository](../../wiki#clone-repository) instead of downloading zip...*
 
 If an editor update is required just delete the engine install directory and [reinstall](#download--install) the editor.
 > :warning: DO NOT LEAVE THE EDITOR OPEN WHEN TRYING TO DELETE THE INSTALL!
