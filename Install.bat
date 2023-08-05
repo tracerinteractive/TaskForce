@@ -1,4 +1,5 @@
 @echo off
+pushd "%~dp0"
 
 where git >nul 2>nul
 if %ERRORLEVEL% neq 0 (
@@ -14,3 +15,4 @@ if exist UnrealEngine\Setup.bat (
 )
 
 pause
+popd
