@@ -7,9 +7,7 @@ if %ERRORLEVEL% neq 0 (
 	goto :error
 )
 
-set /P "PAC=GitHub Personal Access Token: "
-git clone -b taskforce https://%PAC%@github.com/tracerinteractive/UnrealEngine.git
-
+git clone -b taskforce https://github.com/tracerinteractive/UnrealEngine.git
 if exist UnrealEngine\Setup.bat (
 	move UnrealEngine UnrealEngine-taskforce
 )
