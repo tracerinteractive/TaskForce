@@ -14,5 +14,13 @@ if exist UnrealEngine\Setup.bat (
 	move UnrealEngine UnrealEngine-taskforce
 )
 
+echo Done!
 pause
+
+goto :end
+
+:error
+pause
+
+:end
 popd
