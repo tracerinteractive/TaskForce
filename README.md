@@ -58,8 +58,7 @@ And you'll see this alert on your GitHub homepage.
 ---
 
 ### Download + Install
-
-*If you want AUTOMATIC UPDATES then [clone repository](../../wiki#clone-repository) instead of downloading zip...*
+> :bulb: *If you want AUTOMATIC UPDATES then [clone repository](../../wiki#clone-repository) instead of downloading zip...*
 
 [github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip](https://github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip)
 > ![Not Found](https://github.com/tracerinteractive/TaskForce/assets/43829991/4b905d20-5ab9-4330-9452-4e74c10314a5)  
@@ -137,8 +136,6 @@ The thumbnail for each asset will render after it has been loaded, but you canno
 
 ### Update Editor
 
-*If you want AUTOMATIC UPDATES then [clone repository](../../wiki#clone-repository) instead of downloading zip...*
-
 If an editor update is required just delete the engine install directory and [reinstall](#download--install) the editor.
 > :warning: DO NOT LEAVE THE EDITOR OPEN WHEN TRYING TO DELETE THE INSTALL!
 
@@ -146,6 +143,8 @@ If an editor update is required just delete the engine install directory and [re
 
 - This means you perform the [download + install](#download--install) instructions as you did before
 - After that your existing projects will be accessible again under *RECENT PROJECTS*
+
+> :bulb: *If you want to use `Update.bat` then [clone repository](../../wiki#clone-repository) instead of downloading zip...*
 
 **You have successfully updated your editor!**
 
