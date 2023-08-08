@@ -73,7 +73,7 @@ This shows the engine being installed on the `C:\` drive, but you can use any dr
 
 ![Extract Dialog](https://github.com/tracerinteractive/TaskForce/assets/43829991/5ee77835-ff51-4db0-8d18-8003cd80464d)
 
-After the zip is extracted you should have `UnrealEngine-taskforce` on your drive.
+After the zip is extracted you should have the `UnrealEngine-taskforce` folder on your drive.
 
 ![Install Folder](https://github.com/tracerinteractive/TaskForce/assets/43829991/ef8e8112-9265-466d-a09f-5da8e5795f4c)
 
