@@ -91,7 +91,7 @@ Once the setup is complete double-click on `Launcher.bat` to boot the editor.
 
 ### Create Project
 Go to the *WORKSHOP* section and create a new project using the *Task Force* template.
-> :warning: DO NOT CREATE PROJECT FILES ANYWHERE INSIDE YOUR ENGINE INSTALL DIRECTORY! 
+> :warning: DO NOT CREATE PROJECT FILES INSIDE YOUR ENGINE INSTALL DIRECTORY! 
 
 ![Create Project](https://github.com/tracerinteractive/TaskForce/assets/43829991/0582ff91-ebc8-4b84-a43f-4776e2bebadd)
 
