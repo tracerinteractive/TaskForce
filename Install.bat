@@ -10,6 +10,7 @@ if %ERRORLEVEL% neq 0 (
 git clone -b taskforce https://github.com/tracerinteractive/UnrealEngine.git
 if exist UnrealEngine\Setup.bat (
 	move UnrealEngine UnrealEngine-taskforce
+	git config --global --add safe.directory "%CD%\UnrealEngine-taskforce"
 )
 
 echo Done!
