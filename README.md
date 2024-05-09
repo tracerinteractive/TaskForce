@@ -144,7 +144,7 @@ If an editor update is required just double-click the `Update.bat` file.
 ![Run Update](https://github.com/tracerinteractive/TaskForce/assets/43829991/09640fae-292d-4e2b-9007-571738d54b8c)
 
 The latest files will be downloaded and updated automatically by git.
-> You should also [update projects](../#update-project) and [game content](../#add-game-content) after the editor is updated.
+> You should also [update projects](#update-project) and [game content](#add-game-content) after the editor is updated.
 
 ![Pull Command](https://github.com/tracerinteractive/TaskForce/assets/43829991/eafb4822-3bfe-4c21-91ae-345272cd6c63)
 
