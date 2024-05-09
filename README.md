@@ -58,7 +58,7 @@ And you'll see this alert on your GitHub homepage.
 ---
 
 ### Download + Install
-> :bulb: You need to have **git** installed! If you do not then download here: [git-scm.com/download/win](https://git-scm.com/download/win)
+> :bulb: You need to have **git** installed: [git-scm.com/download/win](https://git-scm.com/download/win)
 
 The engine is installed using the `Install.bat` file:  
 [github.com/tracerinteractive/TaskForce/blob/main/Install.bat](https://github.com/tracerinteractive/TaskForce/blob/main/Install.bat)
