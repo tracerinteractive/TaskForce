@@ -58,34 +58,36 @@ And you'll see this alert on your GitHub homepage.
 ---
 
 ### Download + Install
-> :bulb: *If you want AUTOMATIC UPDATES then [clone repository](../../wiki#clone-repository) instead of downloading zip...*
+> :bulb: You need to have **git** installed! If you do not then download here: [git-scm.com/download/win](https://git-scm.com/download/win)
 
-[github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip](https://github.com/tracerinteractive/UnrealEngine/archive/refs/heads/taskforce.zip)
-> ![Not Found](https://github.com/tracerinteractive/TaskForce/assets/43829991/4b905d20-5ab9-4330-9452-4e74c10314a5)  
+The engine is installed using the `Install.bat` file:  
+[github.com/tracerinteractive/TaskForce/blob/main/Install.bat](https://github.com/tracerinteractive/TaskForce/blob/main/Install.bat)
 > :warning: You must have a GitHub account [linked](#link-accounts) to an Epic Games account!  
 
-Once the zip is downloaded extract the files to the root of your drive.
+Just click the icon in the corner to download the file.
 
-![Extract All](https://github.com/tracerinteractive/TaskForce/assets/43829991/390f5ca4-53bd-4e21-bc9a-b723fc0d8cbf)
+![Download Script](https://github.com/tracerinteractive/TaskForce/assets/43829991/5d9054e8-115b-4f98-a595-1ca8ba2dc40c)
 
-This shows the engine being installed on the `C:\` drive, but you can use any drive you'd like.
-> You do not need to specify a directory name as the zip already contains the folder.
+Once downloaded move `Install.bat` to your desired installation drive and run the script.
+> :warning: You must have [git](https://git-scm.com/download/win) installed to run the `Install.bat` and `Update.bat` files!
 
-![Extract Dialog](https://github.com/tracerinteractive/TaskForce/assets/43829991/5ee77835-ff51-4db0-8d18-8003cd80464d)
+![Run Install](https://github.com/tracerinteractive/TaskForce/assets/43829991/d92515dc-afe4-4eca-bdae-353243240972)
+> This shows an install on the `C:\` drive, but you can use any drive you'd like.
 
-After the zip is extracted you should have the `UnrealEngine-taskforce` folder on your drive.
+After the repository is cloned you should see the `UnrealEngine-taskforce` folder on your drive.
 
-![Install Folder](https://github.com/tracerinteractive/TaskForce/assets/43829991/ef8e8112-9265-466d-a09f-5da8e5795f4c)
+![Install Folder](https://github.com/tracerinteractive/TaskForce/assets/43829991/628e0c10-893d-4f6b-8e9a-97cf0c9f02a7)
+> You can delete the `Install.bat` file since it is no longer needed.
 
 Right-click on `Setup.bat` and select "Run as administrator" to install the engine.
-> You can also delete the `.gitattributes` and `.gitignore` files as they are not needed.
 
-![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/77bbe327-ff39-46bd-b039-c3b810fc9e4e)
+![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/039f7c24-0d4c-4616-bee9-f5c0b847529d)
 
 Once the setup is complete double-click on `Launcher.bat` to boot the editor.
 > You can drag and drop `Launcher.bat` (using the *right mouse button*) to create a shortcut.
 
-![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/5176a364-7afa-4a57-80f4-7687f430f91b)
+![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/328b1d12-d8bf-4ef0-a40d-1e95aba81a24)
+> Or you can create a shortcut to `Engine\Binaries\Win64\UnrealEditor.exe` instead.
 
 **You have now successfully installed the Task Force Editor!**
 
@@ -136,15 +138,15 @@ The thumbnail for each asset will render after it has been loaded, but you canno
 
 ### Update Editor
 
-If an editor update is required just delete the engine install directory and [reinstall](#download--install) the editor.
-> :warning: DO NOT LEAVE THE EDITOR OPEN WHEN TRYING TO DELETE THE INSTALL!
+If an editor update is required just double-click the `Update.bat` file.
+> :warning: DO NOT LEAVE THE EDITOR OPEN WHEN UPDATING THE INSTALL!
 
-![Delete Folder](https://github.com/tracerinteractive/TaskForce/assets/43829991/8c1e3537-fce8-46a7-a007-e4db495c3e12)
+![Run Update](https://github.com/tracerinteractive/TaskForce/assets/43829991/09640fae-292d-4e2b-9007-571738d54b8c)
 
-- This means you perform the [download + install](#download--install) instructions as you did before
-- After that your existing projects will be accessible again under *RECENT PROJECTS*
+The latest files will be downloaded and updated automatically by git.
+> You should also [update projects](../#update-project) and [game content](../#add-game-content) after the editor is updated.
 
-> :bulb: *If you want to use `Update.bat` then [clone repository](../../wiki#clone-repository) instead of downloading zip...*
+![Pull Command](https://github.com/tracerinteractive/TaskForce/assets/43829991/eafb4822-3bfe-4c21-91ae-345272cd6c63)
 
 **You have successfully updated your editor!**
 
