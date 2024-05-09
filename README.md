@@ -74,7 +74,11 @@ Once downloaded move `Install.bat` to your desired installation drive and run th
 ![Run Install](https://github.com/tracerinteractive/TaskForce/assets/43829991/d92515dc-afe4-4eca-bdae-353243240972)
 > This shows an install on the `C:\` drive, but you can use any drive you'd like.
 
-After the repository is cloned you should see the `UnrealEngine-taskforce` folder on your drive.
+There will be a popup to sign in to GitHub via your web browser.
+
+![Clone Command](https://github.com/tracerinteractive/TaskForce/assets/43829991/128ad41a-6a18-42fc-bcba-fd6acc903134)
+
+After the repository is cloned you should see the `UnrealEngine-taskforce` folder.
 
 ![Install Folder](https://github.com/tracerinteractive/TaskForce/assets/43829991/628e0c10-893d-4f6b-8e9a-97cf0c9f02a7)
 > You can delete the `Install.bat` file since it is no longer needed.
