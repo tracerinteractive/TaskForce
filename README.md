@@ -17,13 +17,14 @@ If you are not logged in to GitHub, click either the *Sign In* or *Sign Up* butt
 ![GitHub Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/eab20d9f-909b-49bd-8f01-4a40e60b5ee7)
 
 To use the Task Force Editor you must have an Epic Games account with a linked GitHub account. If you do not have an Epic Games account or have never linked your accounts before then proceed with the following instructions. If you've already joined the Epic Games organization on GitHub then skip ahead to the [download + install](#download--install) section.
+> :bulb: There's also instructions here: [unrealengine.com/ue-on-github](https://www.unrealengine.com/ue-on-github)
 
 ---
 
 ### Link Accounts
+> :warning: You must have an Epic Games account to download the editor!
 
 You must login to an Epic Games account. Go to [epicgames.com](https://epicgames.com) and click *Sign In*, even if you've never created an account before. Then click *Sign Up* at the very bottom to create an account or select a way to login to your existing account.
-> :warning: You must have an Epic Games account to download the editor!
 
 ![Epic Games Login](https://github.com/tracerinteractive/TaskForce/assets/43829991/f0edb2a0-ed69-408b-bdc0-8aa499363261)
 
