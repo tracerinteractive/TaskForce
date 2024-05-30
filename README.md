@@ -5,9 +5,9 @@
 * [Download + Install](#download--install)
 	* [Update Editor](#update-editor)
 * [Create Project](#create-project)
+	* [Update Project](#update-project)
 	* [Add Game Content](#add-game-content)
 	* [Buy Marketplace Content](https://www.unrealengine.com/marketplace/store)
-	* [Update Project](#update-project)
 * [View Documentation](../../wiki)
 * [View Workshop](https://steamcommunity.com/app/611300/workshop/)
 
