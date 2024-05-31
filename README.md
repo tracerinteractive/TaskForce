@@ -72,7 +72,7 @@ Just click the icon in the corner to download the file.
 Once downloaded move `Install.bat` to your desired installation drive and run the script.
 > :warning: You must have [git](https://git-scm.com/download/win) installed to run the `Install.bat` and `Update.bat` files!
 
-![Run Install](https://github.com/tracerinteractive/TaskForce/assets/43829991/d92515dc-afe4-4eca-bdae-353243240972)
+![Run Install](https://github.com/tracerinteractive/TaskForce/assets/43829991/1dcd0b0f-6dea-4595-b38e-01db25dd22be)
 > This shows an install on the `C:\` drive, but you can use any drive you'd like.
 
 There will be a popup to sign in to GitHub via your web browser.
