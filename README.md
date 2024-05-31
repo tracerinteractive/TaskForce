@@ -77,7 +77,7 @@ Once downloaded move `Install.bat` to your desired installation drive and run th
 
 There will be a popup to sign in to GitHub via your web browser.
 
-![Sign In](https://github.com/tracerinteractive/TaskForce/assets/43829991/680a94af-f45e-4b1c-818c-86b656f0da88)
+![Sign In](https://github.com/tracerinteractive/TaskForce/assets/43829991/dbc04471-036f-4368-9328-db30f2725e33)
 > :warning: You must have a GitHub account [linked](#link-accounts) to an Epic Games account!
 
 Click the "Authorize git-ecosystem" button and close the browser window.
@@ -86,7 +86,7 @@ Click the "Authorize git-ecosystem" button and close the browser window.
 
 Then return to the command prompt and wait for the clone to finish.
 
-![Clone Command](https://github.com/tracerinteractive/TaskForce/assets/43829991/fa986b0e-5a22-43c0-9b00-8204b33e8eab)
+![Install Script](https://github.com/tracerinteractive/TaskForce/assets/43829991/fa986b0e-5a22-43c0-9b00-8204b33e8eab)
 
 After the repository is cloned you should see the `UnrealEngine-taskforce` folder.
 
@@ -97,8 +97,12 @@ Right-click on `Setup.bat` and select "Run as administrator" to install the engi
 
 ![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/4eec9060-8bfb-4fba-ba85-b030f71825fd)
 
+Then wait for the download to finish and click "Yes" to register `.uproject` file types.
+
+![Setup Script](https://github.com/tracerinteractive/TaskForce/assets/43829991/db9d4297-4726-46bb-b011-e44a002c73fa)
+
 Once the setup is complete double-click on `Launcher.bat` to boot the editor.
-> You can drag and drop `Launcher.bat` (using the *right mouse button*) to create a shortcut.
+> :bulb: You can right-click `Launcher.bat` to create a desktop shortcut.
 
 ![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/328b1d12-d8bf-4ef0-a40d-1e95aba81a24)
 > Or you can create a shortcut to `Engine\Binaries\Win64\UnrealEditor.exe` instead.
