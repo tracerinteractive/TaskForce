@@ -86,7 +86,7 @@ Click the "Authorize git-ecosystem" button and close the browser window.
 
 Then return to the command prompt and wait for the clone to finish.
 
-![Clone Command](https://github.com/tracerinteractive/TaskForce/assets/43829991/128ad41a-6a18-42fc-bcba-fd6acc903134)
+![Clone Command](https://github.com/tracerinteractive/TaskForce/assets/43829991/fa986b0e-5a22-43c0-9b00-8204b33e8eab)
 
 After the repository is cloned you should see the `UnrealEngine-taskforce` folder.
 
@@ -95,7 +95,7 @@ After the repository is cloned you should see the `UnrealEngine-taskforce` folde
 
 Right-click on `Setup.bat` and select "Run as administrator" to install the engine.
 
-![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/039f7c24-0d4c-4616-bee9-f5c0b847529d)
+![Run Setup](https://github.com/tracerinteractive/TaskForce/assets/43829991/4eec9060-8bfb-4fba-ba85-b030f71825fd)
 
 Once the setup is complete double-click on `Launcher.bat` to boot the editor.
 > You can drag and drop `Launcher.bat` (using the *right mouse button*) to create a shortcut.
