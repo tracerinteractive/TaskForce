@@ -76,7 +76,15 @@ Once downloaded move `Install.bat` to your desired installation drive and run th
 > This shows an install on the `C:\` drive, but you can use any drive you'd like.
 
 There will be a popup to sign in to GitHub via your web browser.
-> :warning: You must have a GitHub account [linked](#link-accounts) to an Epic Games account!  
+
+![Sign In](https://github.com/tracerinteractive/TaskForce/assets/43829991/680a94af-f45e-4b1c-818c-86b656f0da88)
+> :warning: You must have a GitHub account [linked](#link-accounts) to an Epic Games account!
+
+Click the "Authorize git-ecosystem" button and close the browser window.
+
+![Authorize GitHub](https://github.com/tracerinteractive/TaskForce/assets/43829991/4916ea75-debc-4e3c-a873-9da36898bd74)
+
+Then return to the command prompt and wait for the clone to finish.
 
 ![Clone Command](https://github.com/tracerinteractive/TaskForce/assets/43829991/128ad41a-6a18-42fc-bcba-fd6acc903134)
 
