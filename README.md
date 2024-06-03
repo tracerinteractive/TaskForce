@@ -80,7 +80,7 @@ There will be a popup to sign in to GitHub via your web browser.
 ![Sign In](https://github.com/tracerinteractive/TaskForce/assets/43829991/dbc04471-036f-4368-9328-db30f2725e33)
 > :warning: You must have a GitHub account [linked](#link-accounts) to an Epic Games account!
 
-Click the "Authorize git-ecosystem" button and close the browser window.
+Click the *Authorize git-ecosystem* button and close the browser window.
 
 ![Authorize GitHub](https://github.com/tracerinteractive/TaskForce/assets/43829991/4916ea75-debc-4e3c-a873-9da36898bd74)
 
@@ -107,6 +107,10 @@ Once the setup is complete double-click on `Launcher.bat` to boot the editor.
 ![Start Launcher](https://github.com/tracerinteractive/TaskForce/assets/43829991/328b1d12-d8bf-4ef0-a40d-1e95aba81a24)
 > Or you can create a shortcut to `Engine\Binaries\Win64\UnrealEditor.exe` instead.
 
+Then wait for engine shaders to compile, which only happens the first time the engine is launched.
+
+![Compile Engine Shaders](https://github.com/tracerinteractive/TaskForce/assets/43829991/089d6dd1-ccbb-484f-b86d-8c9635cf0cef)
+
 **You have now successfully installed the Task Force Editor!**
 
 ### Create Project
@@ -120,7 +124,14 @@ Go to the *WORKSHOP* section and create a new project using the *Task Force* tem
 > This example creates a new project at the following path:  
 > `C:\Users\Administrator\Desktop\MyProject\TaskForce.uproject`  
 
+Then wait for project shaders to compile, which only happens the first time the project is launched.
+
 ![Compile Shaders](https://github.com/tracerinteractive/TaskForce/assets/43829991/0e3d0425-a832-4ee0-8948-11198021bdca)
+
+When the project launches a sample map called `YourMapName.umap` will open by default.
+> There's detailed notes for various gameplay elements labeled throughout the map.
+
+![Sample Map](https://github.com/tracerinteractive/TaskForce/assets/43829991/741bc9b7-f171-4a6c-b746-716b88155dfb)
 
 Once you've created a new project, you can jump into any of the following tasks:
 
@@ -128,13 +139,13 @@ Once you've created a new project, you can jump into any of the following tasks:
 * [Map Uploading](../../wiki/Upload-Map) - Submit a valid map and folder structure to the workshop
 * [Map Development](../../wiki/Develop-Maps) - Learn how to build maps with Unreal Engine 5
 
-You can use the launcher to open existing projects from the "RECENT PROJECTS" section.
+You can also use the launcher to open existing projects from the *RECENT PROJECTS* section.
 
 ![Recent Projects](https://github.com/tracerinteractive/TaskForce/assets/43829991/3e58dbe1-619b-481f-a8b3-8dbcd676a77f)
 
 ### Add Game Content
 
-The launcher also extracts the latest game content from your Task Force install.
+The launcher extracts the latest game content from your Task Force install as well.
 > :warning: DO NOT CLICK THIS BUTTON WHILE YOUR PROJECT IS OPEN!
 
 ![Add Content](https://github.com/tracerinteractive/TaskForce/assets/43829991/eb1b7d98-fe3e-46d5-baa3-efdb9cdf70fb)
@@ -144,13 +155,17 @@ This button adds pre-cooked content from your game install into your project. Th
 
 ![Extract Content](https://github.com/tracerinteractive/TaskForce/assets/43829991/98174ddc-16be-4e16-aa32-ec1fe9caef0a)
 
-After the game content is extracted it will be available in your content browser.
-> :rocket: Using in-game assets can significantly reduce the size of your workshop item!
+After game content is extracted it will be available in your content browser. Most in-game content is located in the `/Environments/Marketplace/...` folders for various marketplace packs, usually within a `/Meshes` or `/Models` subfolder.
 
 ![Browse Content](https://github.com/tracerinteractive/TaskForce/assets/43829991/bb2b3e3c-0055-4207-92ba-3733480d8df2)
 
-The thumbnail for each asset will render after it has been loaded, but you cannot directly open pre-cooked content in the editor. However this can be manually triggered for new assets by dragging and dropping a mesh onto your map and then immediately removing it.
-> You can render multiple thumbnails by selecting and placing a lot of meshes at once.
+Just drag and drop any mesh from the content drawer onto the map.
+> :rocket: Using in-game assets can significantly reduce the size of your workshop item!
+
+![Drag and Drop Content](https://github.com/tracerinteractive/TaskForce/assets/43829991/920dba85-e5ff-4c23-ab77-70505ae2be38)
+
+The thumbnail for each asset will render after it has been loaded, but you cannot directly open pre-cooked content in the editor. However this can be manually triggered for new assets after interacting with them in the content browser.
+> You can render multiple thumbnails by selecting a lot of meshes at once.
 
 ---
 
